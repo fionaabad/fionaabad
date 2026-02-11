@@ -5,7 +5,7 @@
 ### Data Analytics · Web Design · ML / Tech Projects
 
 <p>
-  <a href="mailto:[fionaabadmunoz@gmail.com]"><img alt="Email" src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:fionaabadmunoz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p>
@@ -113,11 +113,12 @@ Interactive computer vision demo that classifies hand-drawn shapes in the browse
 
 ---
 
-## GitHub stats
+## GitHub Stats
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fionaabad&show_icons=true&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fionaabad&layout=compact&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=fionaabad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fionaabad&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
