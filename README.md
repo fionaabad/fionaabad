@@ -113,17 +113,16 @@ Interactive computer vision demo that classifies hand-drawn shapes in the browse
 
 ---
 
-## Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/fionaabad/fionaabad/output/github-contribution-grid-snake.svg)
-
-
-
----
-
 <div align="center">
 
 ### Thanks for stopping by
 If you want to collaborate, feel free to reach out.
 
+</div>
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fionaabad/fionaabad/output/github-contribution-grid-snake.svg" />
 </div>
