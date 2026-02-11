@@ -113,14 +113,11 @@ Interactive computer vision demo that classifies hand-drawn shapes in the browse
 
 ---
 
-## GitHub Stats
-<div align="center">
+## Contribution Snake
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fionaabad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+![snake gif](https://raw.githubusercontent.com/fionaabad/fionaabad/output/github-contribution-grid-snake.svg)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fionaabad&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
 
 ---
 
